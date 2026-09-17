@@ -1,0 +1,12 @@
+{
+    "question_number": 10,
+    "question": "Which AI company has the highest revenue in 2026?",
+    "expected": "refuse",
+    "answer": "I don't have that information in the documents.",
+    "sources": [
+        "chunk_10",
+        "chunk_4",
+        "chunk_16"
+    ],
+    "pass": true
+}

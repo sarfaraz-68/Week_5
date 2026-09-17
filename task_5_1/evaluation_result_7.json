@@ -1,0 +1,12 @@
+{
+    "question_number": 7,
+    "question": "Which country has the highest median salary?",
+    "expected": "answer",
+    "answer": "Based on the provided context, the United States has the highest median salary at $120,000 [chunk_13, chunk_14].",
+    "sources": [
+        "chunk_13",
+        "chunk_14",
+        "chunk_10"
+    ],
+    "pass": true
+}

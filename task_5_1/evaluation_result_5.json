@@ -1,0 +1,12 @@
+{
+    "question_number": 5,
+    "question": "What percentage of postings don't specify a work arrangement?",
+    "expected": "answer",
+    "answer": "Based on the provided documents, 81.7% of postings do not specify a work arrangement [chunk_11, chunk_16] (also noted as 82% in [chunk_2]).\n\nSources: [chunk_11], [chunk_16], [chunk_2]",
+    "sources": [
+        "chunk_11",
+        "chunk_16",
+        "chunk_2"
+    ],
+    "pass": true
+}

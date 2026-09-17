@@ -1,0 +1,12 @@
+{
+    "question_number": 9,
+    "question": "What is the population of France?",
+    "expected": "refuse",
+    "answer": "I don't have that information in the documents.",
+    "sources": [
+        "chunk_2",
+        "chunk_10",
+        "chunk_13"
+    ],
+    "pass": true
+}

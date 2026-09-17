@@ -1,0 +1,12 @@
+{
+    "question_number": 2,
+    "question": "How many AI job postings are in the dataset?",
+    "expected": "answer",
+    "answer": "There are 5,773 job postings in the dataset [chunk_2, chunk_4].",
+    "sources": [
+        "chunk_10",
+        "chunk_2",
+        "chunk_4"
+    ],
+    "pass": true
+}

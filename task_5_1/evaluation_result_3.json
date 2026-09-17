@@ -1,0 +1,12 @@
+{
+    "question_number": 3,
+    "question": "Which job titles lead the AI job market?",
+    "expected": "answer",
+    "answer": "Based on the provided context, the top AI job titles leading demand are Data Scientist (281) and AI Engineer (270), followed by Machine Learning Engineer (PhD Intern) (173) and Machine Learning Engineer (110) [chunk_10].",
+    "sources": [
+        "chunk_10",
+        "chunk_4",
+        "chunk_20"
+    ],
+    "pass": true
+}

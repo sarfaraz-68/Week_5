@@ -1,0 +1,12 @@
+{
+    "question_number": 8,
+    "question": "What percentage of postings listed required skills?",
+    "expected": "answer",
+    "answer": "Based on the provided documents, 18.8% of postings listed skills [chunk_12, chunk_16].",
+    "sources": [
+        "chunk_12",
+        "chunk_11",
+        "chunk_16"
+    ],
+    "pass": true
+}

@@ -1,0 +1,12 @@
+{
+    "question_number": 1,
+    "question": "What are the top requested skills in AI jobs?",
+    "expected": "answer",
+    "answer": "Based on the provided documents, the top requested skills (led by Python and Computer Vision, followed by NLP, Azure, R, SQL, RAG, AWS, OpenAI, and Fine-tuning) are:\n\n* Python (308) [chunk_12]\n* Computer Vision (276) [chunk_12]\n* NLP (171) [chunk_12]\n* Azure (133) [chunk_12]\n* R (108) [chunk_12]\n* SQL (87) [chunk_12]\n* RAG (86) [chunk_12]\n* AWS (75) [chunk_12]\n* OpenAI (61) [chunk_12]\n* Fine-tuning (32) [chunk_12]",
+    "sources": [
+        "chunk_12",
+        "chunk_4",
+        "chunk_10"
+    ],
+    "pass": true
+}

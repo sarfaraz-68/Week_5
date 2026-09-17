@@ -1,0 +1,12 @@
+{
+    "question_number": 4,
+    "question": "Which country has the most AI job postings?",
+    "expected": "answer",
+    "answer": "Based on the provided context, the US has the most AI job postings, with 1,837 postings (31.8%).\n\nSource chunk IDs: [chunk_10], [chunk_2]",
+    "sources": [
+        "chunk_10",
+        "chunk_2",
+        "chunk_4"
+    ],
+    "pass": true
+}
