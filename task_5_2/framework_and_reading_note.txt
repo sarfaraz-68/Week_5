@@ -1,0 +1,11 @@
+LangChain and LlamaIndex are orchestration frameworks that can wrap the main parts of an agent system, such as the agent loop, tool definitions, tool calling, memory, and interaction between the LLM and tools.
+
+The raw implementation in this task helps me understand what happens underneath the framework. Building the Reason → Act → Observe loop myself makes it easier to debug and understand agent behavior instead of treating the framework as a black box.
+
+Frameworks are useful for building larger applications faster, but understanding the underlying loop and tool execution is important for controlling, debugging, and improving an agent.
+
+An orchestration framework such as LangChain or LlamaIndex can manage the agent loop, 
+tool definitions, and memory for us. It reduces the amount of code needed to connect 
+an LLM with multiple tools. However, understanding the raw Reason → Act → Observe loop 
+is important because it shows what the framework is doing underneath. This makes it easier 
+to debug, customize, and understand agent behavior.

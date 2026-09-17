@@ -1,0 +1,8 @@
+Goal: What is total population of Africa
+
+Step 1
+Reason: {'type': 'tool', 'tool': 'search', 'input': 'total population of Africa'}
+Act: search('total population of Africa')
+Observe: NO_INFORMATION_FOUND
+
+Final Answer: I don't have that information available through my tools.
